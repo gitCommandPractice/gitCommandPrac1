@@ -1,0 +1,3 @@
+git config --system alias.co checkout
+
+git co de checkout dekiru

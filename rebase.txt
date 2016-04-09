@@ -1,0 +1,7 @@
+rebase -i HEAD^^^
+commit naiyou kakikae
+
+
+rebase master
+jibun no branch wo
+master ni ottukesaseru

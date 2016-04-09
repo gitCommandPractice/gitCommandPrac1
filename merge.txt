@@ -1,0 +1,7 @@
+fast-forward merge
+non fast-forward merge
+squash merge
+
+doremo iikedo
+non fast-forward merge
+osusume
